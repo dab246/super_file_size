@@ -1,0 +1,11 @@
+name: super_file_size
+description: A simple and lightweight Dart package that converts raw byte sizes into human-readable strings (e.g., 1536 → 1.50 KB).
+version: 1.0.0
+homepage: https://github.com/dab246/super_file_size
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
