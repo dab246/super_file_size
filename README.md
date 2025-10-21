@@ -27,6 +27,6 @@ Add this line to your `pubspec.yaml`:
 ```yaml
 dependencies:
   super_file_size: ^1.0.0
-
+```
 
 Inspired by [filesize.js](https://github.com/avoidwork/filesize.js "filesize.js")
